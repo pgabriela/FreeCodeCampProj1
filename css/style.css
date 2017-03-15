@@ -1,0 +1,23 @@
+.image {
+  margin: 20px 20px 20px 20px;
+}
+#col1 {
+  margin: 10px 0px 10px 10px;
+}
+#col2 {
+  margin: 10px 0px 10px 0px;
+}
+#col3 {
+  margin: 10px 10px 10px 0px;
+}
+.textstyle {
+  font-family: Monospace;
+  font-size: 40px;
+}
+.textstyle2 {
+  font-family: Monospace;
+  font-size: 30px;
+}
+.hider {
+  display: none;
+}
